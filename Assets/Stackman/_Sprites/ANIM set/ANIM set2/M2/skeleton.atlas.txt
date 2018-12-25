@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_die_1
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_die_2
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_die_3
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_die_4
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_die_5
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1
+
+skeleton6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_fly_1
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1
+
+skeleton7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_fly_2
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1
+
+skeleton8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy_1_fly_3
+  rotate: false
+  xy: 2, 2
+  size: 1725, 1215
+  orig: 1725, 1215
+  offset: 0, 0
+  index: -1

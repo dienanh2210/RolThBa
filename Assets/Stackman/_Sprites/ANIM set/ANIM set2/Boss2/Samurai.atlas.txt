@@ -1,0 +1,341 @@
+
+Samurai.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantay trai
+  rotate: true
+  xy: 303, 5
+  size: 110, 154
+  orig: 110, 154
+  offset: 0, 0
+  index: -1
+baptayphai
+  rotate: true
+  xy: 727, 14
+  size: 147, 133
+  orig: 147, 133
+  offset: 0, 0
+  index: -1
+chan1
+  rotate: true
+  xy: 1142, 19
+  size: 450, 436
+  orig: 450, 436
+  offset: 0, 0
+  index: -1
+cotayphai
+  rotate: true
+  xy: 862, 10
+  size: 162, 94
+  orig: 162, 94
+  offset: 0, 0
+  index: -1
+giaphongtrai copy
+  rotate: true
+  xy: 557, 163
+  size: 306, 297
+  orig: 306, 297
+  offset: 0, 0
+  index: -1
+giapvai
+  rotate: true
+  xy: 1580, 2
+  size: 206, 221
+  orig: 206, 221
+  offset: 0, 0
+  index: -1
+giiaphongphai copy
+  rotate: false
+  xy: 1580, 210
+  size: 335, 259
+  orig: 335, 259
+  offset: 0, 0
+  index: -1
+khanco
+  rotate: true
+  xy: 1803, 3
+  size: 205, 188
+  orig: 205, 188
+  offset: 0, 0
+  index: -1
+khanco1
+  rotate: false
+  xy: 557, 471
+  size: 1430, 551
+  orig: 1430, 551
+  offset: 0, 0
+  index: -1
+khanco3
+  rotate: true
+  xy: 2, 117
+  size: 905, 422
+  orig: 905, 422
+  offset: 0, 0
+  index: -1
+khanduoi1
+  rotate: true
+  xy: 2, 4
+  size: 111, 299
+  orig: 111, 299
+  offset: 0, 0
+  index: -1
+khanduoi2
+  rotate: false
+  xy: 856, 174
+  size: 284, 244
+  orig: 284, 244
+  offset: 0, 0
+  index: -1
+kiem
+  rotate: true
+  xy: 426, 162
+  size: 860, 129
+  orig: 860, 129
+  offset: 0, 0
+  index: -1
+kiemcamdau1
+  rotate: false
+  xy: 1989, 630
+  size: 49, 250
+  orig: 49, 250
+  offset: 0, 0
+  index: -1
+ngontay1
+  rotate: false
+  xy: 459, 66
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+ngontay2
+  rotate: false
+  xy: 459, 66
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+ngontay3
+  rotate: false
+  xy: 918, 433
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+ngontay4
+  rotate: true
+  xy: 1989, 545
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+ngontayoban
+  rotate: true
+  xy: 958, 11
+  size: 161, 78
+  orig: 161, 78
+  offset: 0, 0
+  index: -1
+ten2
+  rotate: false
+  xy: 489, 5
+  size: 236, 155
+  orig: 236, 155
+  offset: 0, 0
+  index: -1
+x1-1
+  rotate: false
+  xy: 980, 435
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+x1-2
+  rotate: true
+  xy: 1989, 952
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+x1-3
+  rotate: false
+  xy: 1046, 435
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+x1-4
+  rotate: true
+  xy: 1989, 882
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+x1-6
+  rotate: true
+  xy: 1989, 882
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+x1-8
+  rotate: true
+  xy: 1989, 882
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+x1-5
+  rotate: true
+  xy: 1108, 110
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+x1-7
+  rotate: true
+  xy: 1108, 110
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+x2-1
+  rotate: false
+  xy: 426, 117
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+x2-2
+  rotate: false
+  xy: 1038, 111
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+x2-3
+  rotate: true
+  xy: 1989, 482
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+x2-4
+  rotate: false
+  xy: 1038, 49
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+x2-5
+  rotate: true
+  xy: 1989, 420
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+x2-6
+  rotate: false
+  xy: 1917, 409
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+x2-7
+  rotate: false
+  xy: 856, 428
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+x2-8
+  rotate: true
+  xy: 1986, 351
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+
+Samurai2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banchan1
+  rotate: false
+  xy: 1783, 810
+  size: 134, 208
+  orig: 134, 208
+  offset: 0, 0
+  index: -1
+banchan2
+  rotate: false
+  xy: 1371, 512
+  size: 174, 181
+  orig: 174, 181
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1371, 695
+  size: 220, 323
+  orig: 220, 323
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 1029, 509
+  size: 340, 509
+  orig: 340, 509
+  offset: 0, 0
+  index: -1
+cotaytrai
+  rotate: false
+  xy: 596, 120
+  size: 107, 202
+  orig: 107, 202
+  offset: 0, 0
+  index: -1
+giapvai1
+  rotate: false
+  xy: 452, 115
+  size: 142, 207
+  orig: 142, 207
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 239, 320
+  orig: 239, 320
+  offset: 0, 0
+  index: -1
+khanco2
+  rotate: false
+  xy: 2, 324
+  size: 1025, 694
+  orig: 1025, 694
+  offset: 0, 0
+  index: -1
+kiemcamdau2
+  rotate: false
+  xy: 1593, 759
+  size: 188, 259
+  orig: 188, 259
+  offset: 0, 0
+  index: -1
+ten1
+  rotate: true
+  xy: 1029, 326
+  size: 181, 236
+  orig: 181, 236
+  offset: 0, 0
+  index: -1
+thatlung
+  rotate: false
+  xy: 243, 52
+  size: 207, 270
+  orig: 207, 270
+  offset: 0, 0
+  index: -1

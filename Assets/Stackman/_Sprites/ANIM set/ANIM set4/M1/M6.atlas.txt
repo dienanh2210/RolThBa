@@ -1,0 +1,166 @@
+
+M6.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6 copy
+  rotate: false
+  xy: 3009, 672
+  size: 289, 278
+  orig: 289, 278
+  offset: 0, 0
+  index: -1
+Layer 8 copy
+  rotate: false
+  xy: 3009, 952
+  size: 333, 259
+  orig: 333, 259
+  offset: 0, 0
+  index: -1
+Vetchem
+  rotate: true
+  xy: 2, 26
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+banchham
+  rotate: true
+  xy: 2, 172
+  size: 1869, 913
+  orig: 1869, 913
+  offset: 0, 0
+  index: -1
+bapchantruoc
+  rotate: false
+  xy: 3356, 564
+  size: 738, 647
+  orig: 738, 647
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 917, 670
+  size: 2090, 1371
+  orig: 2090, 1371
+  offset: 0, 0
+  index: -1
+cangchan
+  rotate: true
+  xy: 917, 2
+  size: 666, 566
+  orig: 666, 566
+  offset: 0, 0
+  index: -1
+dau1
+  rotate: false
+  xy: 1485, 5
+  size: 1247, 663
+  orig: 1247, 663
+  offset: 0, 0
+  index: -1
+dau1-hamduoi
+  rotate: true
+  xy: 3356, 48
+  size: 514, 218
+  orig: 514, 218
+  offset: 0, 0
+  index: -1
+dau2-hamduoi
+  rotate: false
+  xy: 3576, 7
+  size: 501, 199
+  orig: 501, 199
+  offset: 0, 0
+  index: -1
+dau3-hamduoi
+  rotate: false
+  xy: 3576, 208
+  size: 508, 354
+  orig: 508, 354
+  offset: 0, 0
+  index: -1
+dui
+  rotate: false
+  xy: 2734, 17
+  size: 620, 651
+  orig: 620, 651
+  offset: 0, 0
+  index: -1
+duisau2
+  rotate: true
+  xy: 3009, 1213
+  size: 828, 1067
+  orig: 828, 1067
+  offset: 0, 0
+  index: -1
+
+M62.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2 copy
+  rotate: true
+  xy: 2, 2
+  size: 241, 247
+  orig: 241, 247
+  offset: 0, 0
+  index: -1
+Layer 4 copy
+  rotate: false
+  xy: 2678, 762
+  size: 269, 267
+  orig: 269, 267
+  offset: 0, 0
+  index: -1
+cangchansau2
+  rotate: false
+  xy: 1227, 523
+  size: 855, 427
+  orig: 855, 427
+  offset: 0, 0
+  index: -1
+cangchantruoc
+  rotate: true
+  xy: 3350, 1115
+  size: 926, 674
+  orig: 926, 674
+  offset: 0, 0
+  index: -1
+chansau
+  rotate: false
+  xy: 1227, 180
+  size: 646, 341
+  orig: 646, 341
+  offset: 0, 0
+  index: -1
+dau2
+  rotate: false
+  xy: 2, 245
+  size: 1223, 705
+  orig: 1223, 705
+  offset: 0, 0
+  index: -1
+dau3
+  rotate: false
+  xy: 2353, 1031
+  size: 995, 1010
+  orig: 995, 1010
+  offset: 0, 0
+  index: -1
+duisau1
+  rotate: false
+  xy: 2084, 444
+  size: 592, 506
+  orig: 592, 506
+  offset: 0, 0
+  index: -1
+duoi1
+  rotate: false
+  xy: 2, 952
+  size: 2349, 1089
+  orig: 2349, 1089
+  offset: 0, 0
+  index: -1

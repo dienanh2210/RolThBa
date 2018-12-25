@@ -1,0 +1,158 @@
+
+M9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 65
+  size: 1656, 1964
+  orig: 1656, 1964
+  offset: 0, 0
+  index: -1
+hamduoi
+  rotate: true
+  xy: 1660, 518
+  size: 690, 384
+  orig: 690, 384
+  offset: 0, 0
+  index: -1
+luoi
+  rotate: true
+  xy: 1660, 1210
+  size: 819, 367
+  orig: 819, 367
+  offset: 0, 0
+  index: -1
+sung3
+  rotate: true
+  xy: 2, 2
+  size: 61, 185
+  orig: 61, 185
+  offset: 0, 0
+  index: -1
+sungchinh1
+  rotate: false
+  xy: 1660, 91
+  size: 376, 425
+  orig: 376, 425
+  offset: 0, 0
+  index: -1
+
+M92.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantay
+  rotate: false
+  xy: 1163, 2
+  size: 837, 659
+  orig: 837, 659
+  offset: 0, 0
+  index: -1
+lua1
+  rotate: true
+  xy: 1182, 663
+  size: 1345, 472
+  orig: 1345, 472
+  offset: 0, 0
+  index: -1
+lua3
+  rotate: false
+  xy: 2, 56
+  size: 1159, 642
+  orig: 1159, 642
+  offset: 0, 0
+  index: -1
+lua6
+  rotate: true
+  xy: 1656, 995
+  size: 1013, 237
+  orig: 1013, 237
+  offset: 0, 0
+  index: -1
+sung1
+  rotate: true
+  xy: 1656, 760
+  size: 233, 338
+  orig: 233, 338
+  offset: 0, 0
+  index: -1
+sung2
+  rotate: false
+  xy: 1895, 1767
+  size: 106, 241
+  orig: 106, 241
+  offset: 0, 0
+  index: -1
+taybo
+  rotate: false
+  xy: 2, 700
+  size: 1178, 1308
+  orig: 1178, 1308
+  offset: 0, 0
+  index: -1
+
+M93.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baptay
+  rotate: false
+  xy: 2, 131
+  size: 584, 247
+  orig: 584, 247
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1141, 1439
+  size: 604, 645
+  orig: 604, 645
+  offset: 0, 0
+  index: -1
+lua
+  rotate: false
+  xy: 2, 380
+  size: 1229, 455
+  orig: 1229, 455
+  offset: 0, 0
+  index: -1
+lua2
+  rotate: false
+  xy: 2, 837
+  size: 1132, 599
+  orig: 1132, 599
+  offset: 0, 0
+  index: -1
+lua4
+  rotate: false
+  xy: 2, 1438
+  size: 1137, 605
+  orig: 1137, 605
+  offset: 0, 0
+  index: -1
+lua5
+  rotate: false
+  xy: 1141, 1020
+  size: 729, 417
+  orig: 729, 417
+  offset: 0, 0
+  index: -1
+luacuoi
+  rotate: true
+  xy: 1233, 306
+  size: 712, 440
+  orig: 712, 440
+  offset: 0, 0
+  index: -1
+sungchinh2
+  rotate: true
+  xy: 588, 2
+  size: 376, 425
+  orig: 376, 425
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: e380693df273d4aaba37230c55359bf8
+timeCreated: 1461684254
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bg2_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bg2_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 1896
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 215.4, y: -61}
+        - {x: 211.4, y: -57}
+        - {x: 188.4, y: -50}
+        - {x: 69.399994, y: -28}
+        - {x: 30.399994, y: -26}
+        - {x: 8.399994, y: -26}
+        - {x: -71.600006, y: -56}
+        - {x: -73.600006, y: -58}
+        - {x: -73.600006, y: -69}
+        - {x: -3.600006, y: -96}
+        - {x: 80.399994, y: -96}
+        - {x: 183.4, y: -78}
+        - {x: 213.4, y: -68}
+        - {x: 215.4, y: -63}
+      - - {x: 174.4, y: 91}
+        - {x: 173.4, y: 90}
+        - {x: 160.4, y: 72}
+        - {x: 155.4, y: 48}
+        - {x: 131.4, y: 26}
+        - {x: 130.4, y: 24}
+        - {x: 130.4, y: 17}
+        - {x: 170.4, y: -48}
+        - {x: 188.4, y: -48}
+        - {x: 253.4, y: -9}
+        - {x: 253.4, y: 61}
+        - {x: 193.4, y: 91}
+      - - {x: 135.4, y: 31}
+        - {x: 135.4, y: 40}
+        - {x: 115.399994, y: 56}
+        - {x: 22.399994, y: 96}
+        - {x: -62.600006, y: 96}
+        - {x: -69.600006, y: 94}
+        - {x: -252.6, y: 51}
+        - {x: -252.6, y: -12}
+        - {x: -224.6, y: -13}
+        - {x: -197.6, y: -13}
+        - {x: -194.6, y: -12}
+        - {x: -93.600006, y: 14}
+        - {x: -93.600006, y: 23}
+        - {x: -94.600006, y: 29}
+    outline:
+    - - {x: 960, y: 720}
+      - {x: 1920, y: 359.99997}
+      - {x: 959.99994, y: 0}
+      - {x: 0, y: 360}
+  spritePackingTag: set2bg
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

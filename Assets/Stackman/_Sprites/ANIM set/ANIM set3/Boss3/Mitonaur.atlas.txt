@@ -1,0 +1,200 @@
+
+Mitonaur.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+axe
+  rotate: false
+  xy: 601, 161
+  size: 1384, 860
+  orig: 1384, 860
+  offset: 0, 0
+  index: -1
+duoi2
+  rotate: true
+  xy: 2, 37
+  size: 984, 597
+  orig: 984, 597
+  offset: 0, 0
+  index: -1
+longdau3
+  rotate: false
+  xy: 601, 2
+  size: 616, 157
+  orig: 616, 157
+  offset: 0, 0
+  index: -1
+longdau4
+  rotate: false
+  xy: 1594, 33
+  size: 348, 126
+  orig: 348, 126
+  offset: 0, 0
+  index: -1
+longdaucuoi
+  rotate: false
+  xy: 1219, 31
+  size: 373, 128
+  orig: 373, 128
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 1944, 2
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 1944, 78
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+
+Mitonaur2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LONGDAU5
+  rotate: false
+  xy: 1182, 218
+  size: 486, 203
+  orig: 486, 203
+  offset: 0, 0
+  index: -1
+Layer 24 copy
+  rotate: false
+  xy: 1182, 7
+  size: 244, 209
+  orig: 244, 209
+  offset: 0, 0
+  index: -1
+cotay
+  rotate: false
+  xy: 837, 111
+  size: 343, 310
+  orig: 343, 310
+  offset: 0, 0
+  index: -1
+cotaysau
+  rotate: false
+  xy: 2, 2
+  size: 351, 281
+  orig: 351, 281
+  offset: 0, 0
+  index: -1
+cotaytruoc
+  rotate: true
+  xy: 1676, 205
+  size: 423, 338
+  orig: 423, 338
+  offset: 0, 0
+  index: -1
+duoi1
+  rotate: false
+  xy: 837, 423
+  size: 837, 582
+  orig: 837, 582
+  offset: 0, 0
+  index: -1
+duoi3
+  rotate: false
+  xy: 2, 285
+  size: 833, 720
+  orig: 833, 720
+  offset: 0, 0
+  index: -1
+giapdau1
+  rotate: false
+  xy: 656, 93
+  size: 164, 190
+  orig: 164, 190
+  offset: 0, 0
+  index: -1
+giapdau2
+  rotate: true
+  xy: 1654, 10
+  size: 193, 293
+  orig: 193, 293
+  offset: 0, 0
+  index: -1
+giapvai
+  rotate: true
+  xy: 1676, 630
+  size: 375, 360
+  orig: 375, 360
+  offset: 0, 0
+  index: -1
+hamduoi
+  rotate: true
+  xy: 1428, 27
+  size: 189, 224
+  orig: 189, 224
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 355, 14
+  size: 299, 269
+  orig: 299, 269
+  offset: 0, 0
+  index: -1
+
+Mitonaur3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantaytruoc
+  rotate: true
+  xy: 575, 17
+  size: 288, 247
+  orig: 288, 247
+  offset: 0, 0
+  index: -1
+baptaysau
+  rotate: true
+  xy: 1478, 361
+  size: 245, 274
+  orig: 245, 274
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 837, 335
+  size: 575, 639
+  orig: 575, 639
+  offset: 0, 0
+  index: -1
+duoi4
+  rotate: false
+  xy: 2, 307
+  size: 833, 603
+  orig: 833, 603
+  offset: 0, 0
+  index: -1
+hamtren
+  rotate: false
+  xy: 1478, 608
+  size: 335, 302
+  orig: 335, 302
+  offset: 0, 0
+  index: -1
+longdau12
+  rotate: false
+  xy: 2, 2
+  size: 571, 303
+  orig: 571, 303
+  offset: 0, 0
+  index: -1
+sung2
+  rotate: true
+  xy: 1815, 652
+  size: 258, 160
+  orig: 258, 160
+  offset: 0, 0
+  index: -1

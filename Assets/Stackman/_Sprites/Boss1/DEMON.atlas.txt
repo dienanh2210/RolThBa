@@ -1,0 +1,328 @@
+
+DEMON.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantaysau
+  rotate: false
+  xy: 1679, 20
+  size: 229, 177
+  orig: 229, 177
+  offset: 0, 0
+  index: -1
+duoi5
+  rotate: false
+  xy: 1266, 5
+  size: 411, 192
+  orig: 411, 192
+  offset: 0, 0
+  index: -1
+longdau1
+  rotate: false
+  xy: 1910, 23
+  size: 121, 174
+  orig: 121, 174
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 883, 556
+  size: 459, 1098
+  orig: 459, 1098
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 1266, 199
+  size: 779, 355
+  orig: 779, 355
+  offset: 0, 0
+  index: -1
+t4
+  rotate: true
+  xy: 2, 2
+  size: 1013, 879
+  orig: 1013, 879
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 883, 8
+  size: 381, 546
+  orig: 381, 546
+  offset: 0, 0
+  index: -1
+
+DEMON2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banchantruoc
+  rotate: true
+  xy: 766, 114
+  size: 256, 583
+  orig: 256, 583
+  offset: 0, 0
+  index: -1
+canhtruoc
+  rotate: false
+  xy: 2, 372
+  size: 1627, 646
+  orig: 1627, 646
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 1631, 63
+  size: 413, 470
+  orig: 413, 470
+  offset: 0, 0
+  index: -1
+duisau
+  rotate: false
+  xy: 1631, 535
+  size: 415, 483
+  orig: 415, 483
+  offset: 0, 0
+  index: -1
+duoi6
+  rotate: false
+  xy: 2, 212
+  size: 762, 158
+  orig: 762, 158
+  offset: 0, 0
+  index: -1
+hamduoi
+  rotate: true
+  xy: 1351, 166
+  size: 204, 278
+  orig: 204, 278
+  offset: 0, 0
+  index: -1
+longdau2
+  rotate: false
+  xy: 1351, 28
+  size: 264, 136
+  orig: 264, 136
+  offset: 0, 0
+  index: -1
+longdau3
+  rotate: false
+  xy: 509, 2
+  size: 413, 110
+  orig: 413, 110
+  offset: 0, 0
+  index: -1
+longdau5
+  rotate: false
+  xy: 2, 23
+  size: 505, 187
+  orig: 505, 187
+  offset: 0, 0
+  index: -1
+
+DEMON3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cotaysau
+  rotate: true
+  xy: 1828, 750
+  size: 272, 213
+  orig: 272, 213
+  offset: 0, 0
+  index: -1
+longdau4
+  rotate: true
+  xy: 1828, 219
+  size: 529, 141
+  orig: 529, 141
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1051, 518
+  size: 504, 747
+  orig: 504, 747
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 1678, 6
+  size: 510, 148
+  orig: 510, 148
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 1051, 2
+  size: 625, 514
+  orig: 625, 514
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 2, 105
+  size: 1047, 917
+  orig: 1047, 917
+  offset: 0, 0
+  index: -1
+
+DEMON4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baptaytruoc
+  rotate: false
+  xy: 1675, 602
+  size: 371, 396
+  orig: 371, 396
+  offset: 0, 0
+  index: -1
+cotaytruoc
+  rotate: true
+  xy: 1675, 2
+  size: 294, 303
+  orig: 294, 303
+  offset: 0, 0
+  index: -1
+duoi2
+  rotate: false
+  xy: 1193, 68
+  size: 438, 226
+  orig: 438, 226
+  offset: 0, 0
+  index: -1
+hornback
+  rotate: true
+  xy: 1675, 298
+  size: 302, 299
+  orig: 302, 299
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 1193, 296
+  size: 480, 702
+  orig: 480, 702
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2, 120
+  size: 1189, 878
+  orig: 1189, 878
+  offset: 0, 0
+  index: -1
+
+DEMON5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banchansau
+  rotate: false
+  xy: 1636, 258
+  size: 392, 513
+  orig: 392, 513
+  offset: 0, 0
+  index: -1
+bantaytruoc
+  rotate: true
+  xy: 1097, 272
+  size: 305, 234
+  orig: 305, 234
+  offset: 0, 0
+  index: -1
+baptaysau
+  rotate: true
+  xy: 1636, 773
+  size: 233, 410
+  orig: 233, 410
+  offset: 0, 0
+  index: -1
+duoi1
+  rotate: false
+  xy: 1614, 28
+  size: 326, 228
+  orig: 326, 228
+  offset: 0, 0
+  index: -1
+duoi4
+  rotate: false
+  xy: 1097, 2
+  size: 515, 254
+  orig: 515, 254
+  offset: 0, 0
+  index: -1
+hamtren
+  rotate: false
+  xy: 1097, 579
+  size: 537, 427
+  orig: 537, 427
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 2, 131
+  size: 875, 1093
+  orig: 875, 1093
+  offset: 0, 0
+  index: -1
+
+DEMON6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duitruoc
+  rotate: false
+  xy: 1459, 358
+  size: 482, 459
+  orig: 482, 459
+  offset: 0, 0
+  index: -1
+duoi3
+  rotate: false
+  xy: 1459, 73
+  size: 498, 283
+  orig: 498, 283
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 2, 2
+  size: 1455, 815
+  orig: 1455, 815
+  offset: 0, 0
+  index: -1
+
+DEMON7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canhsau
+  rotate: false
+  xy: 2, 2
+  size: 1400, 784
+  orig: 1400, 784
+  offset: 0, 0
+  index: -1
+
+DEMON8.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t3
+  rotate: false
+  xy: 2, 2
+  size: 1181, 801
+  orig: 1181, 801
+  offset: 0, 0
+  index: -1

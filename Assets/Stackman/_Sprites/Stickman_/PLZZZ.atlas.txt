@@ -1,0 +1,407 @@
+
+PLZZZ.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: true
+  xy: 606, 60
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+banchan2
+  rotate: true
+  xy: 171, 2
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+bantayphai
+  rotate: true
+  xy: 714, 91
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+bantaytra1i
+  rotate: false
+  xy: 606, 3
+  size: 109, 55
+  orig: 109, 55
+  offset: 0, 0
+  index: -1
+bapphai1
+  rotate: true
+  xy: 984, 553
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+bapphai2
+  rotate: false
+  xy: 2, 2
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+baptaytrai1
+  rotate: true
+  xy: 243, 2
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+baptrai2
+  rotate: true
+  xy: 984, 489
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+battleAttackHit_70001
+  rotate: false
+  xy: 830, 428
+  size: 152, 192
+  orig: 152, 192
+  offset: 0, 0
+  index: -1
+battleAttackHit_70002
+  rotate: false
+  xy: 797, 2
+  size: 220, 202
+  orig: 220, 202
+  offset: 0, 0
+  index: -1
+battleAttackHit_70004
+  rotate: false
+  xy: 797, 206
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+battleAttackHit_70005
+  rotate: true
+  xy: 830, 622
+  size: 206, 168
+  orig: 206, 168
+  offset: 0, 0
+  index: -1
+cochan2
+  rotate: false
+  xy: 301, 7
+  size: 90, 43
+  orig: 90, 43
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 171, 52
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 316, 52
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 461, 52
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+fly1 (1)
+  rotate: false
+  xy: 2, 194
+  size: 793, 411
+  orig: 793, 411
+  offset: 0, 0
+  index: -1
+fly1 (2)
+  rotate: false
+  xy: 2, 607
+  size: 826, 415
+  orig: 826, 415
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 984, 455
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: false
+  xy: 717, 6
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+tocgoc
+  rotate: false
+  xy: 830, 830
+  size: 178, 192
+  orig: 178, 192
+  offset: 0, 0
+  index: -1
+vungtay2
+  rotate: true
+  xy: 2, 45
+  size: 147, 167
+  orig: 147, 167
+  offset: 0, 0
+  index: -1
+
+PLZZZ2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 522, 13
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 768, 3
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+Layer 0 copy
+  rotate: false
+  xy: 2, 468
+  size: 746, 552
+  orig: 746, 552
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 218, 100
+  size: 519, 366
+  orig: 519, 366
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: true
+  xy: 353, 8
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+banchan1
+  rotate: true
+  xy: 2, 252
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+bantaytrai
+  rotate: false
+  xy: 2, 411
+  size: 109, 55
+  orig: 109, 55
+  offset: 0, 0
+  index: -1
+battleAttackHit_70003
+  rotate: true
+  xy: 2, 25
+  size: 220, 214
+  orig: 220, 214
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 303
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+cochan1
+  rotate: true
+  xy: 634, 16
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+efect-dam
+  rotate: true
+  xy: 750, 621
+  size: 399, 256
+  orig: 399, 256
+  offset: 0, 0
+  index: -1
+quan1
+  rotate: false
+  xy: 859, 118
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: true
+  xy: 739, 115
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+scoll
+  rotate: true
+  xy: 440, 10
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: true
+  xy: 698, 18
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+toc3
+  rotate: true
+  xy: 113, 362
+  size: 104, 79
+  orig: 104, 79
+  offset: 0, 0
+  index: -1
+toc4
+  rotate: false
+  xy: 892, 9
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+toc5
+  rotate: false
+  xy: 112, 291
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+toc7
+  rotate: false
+  xy: 271, 6
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1
+toc8
+  rotate: false
+  xy: 218, 2
+  size: 51, 96
+  orig: 51, 96
+  offset: 0, 0
+  index: -1
+vungtay
+  rotate: true
+  xy: 750, 247
+  size: 372, 248
+  orig: 372, 248
+  offset: 0, 0
+  index: -1
+
+PLZZZ3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0 (2)
+  rotate: false
+  xy: 2, 2
+  size: 372, 322
+  orig: 372, 322
+  offset: 0, 0
+  index: -1
+Layer 0 copy 3
+  rotate: false
+  xy: 2, 326
+  size: 731, 659
+  orig: 731, 659
+  offset: 0, 0
+  index: -1
+blade3
+  rotate: true
+  xy: 735, 494
+  size: 491, 193
+  orig: 491, 193
+  offset: 0, 0
+  index: -1
+blade3 - Copy
+  rotate: true
+  xy: 735, 494
+  size: 491, 193
+  orig: 491, 193
+  offset: 0, 0
+  index: -1
+khanco
+  rotate: false
+  xy: 735, 426
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+toc6
+  rotate: false
+  xy: 376, 258
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+
+PLZZZ4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: true
+  xy: 500, 2
+  size: 695, 521
+  orig: 695, 521
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 329
+  size: 496, 368
+  orig: 496, 368
+  offset: 0, 0
+  index: -1
+
+PLZZZ5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 730, 659
+  orig: 730, 659
+  offset: 0, 0
+  index: -1
+
+PLZZZ6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0 copy 4
+  rotate: false
+  xy: 2, 2
+  size: 624, 687
+  orig: 624, 687
+  offset: 0, 0
+  index: -1

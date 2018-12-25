@@ -1,0 +1,219 @@
+
+golem.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Die1
+  rotate: false
+  xy: 2, 801
+  size: 1075, 1234
+  orig: 1075, 1234
+  offset: 0, 0
+  index: -1
+StylzzZ-(262)
+  rotate: false
+  xy: 2, 396
+  size: 403, 403
+  orig: 403, 403
+  offset: 0, 0
+  index: -1
+baptay2
+  rotate: false
+  xy: 886, 379
+  size: 131, 182
+  orig: 131, 182
+  offset: 0, 0
+  index: -1
+baptaytruoc
+  rotate: false
+  xy: 837, 563
+  size: 190, 236
+  orig: 190, 236
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1079, 1602
+  size: 299, 433
+  orig: 299, 433
+  offset: 0, 0
+  index: -1
+cotay truoc
+  rotate: true
+  xy: 1380, 1610
+  size: 167, 256
+  orig: 167, 256
+  offset: 0, 0
+  index: -1
+cotaysau
+  rotate: true
+  xy: 1745, 1734
+  size: 120, 218
+  orig: 120, 218
+  offset: 0, 0
+  index: -1
+duoi1 copy
+  rotate: true
+  xy: 1079, 1234
+  size: 366, 255
+  orig: 366, 255
+  offset: 0, 0
+  index: -1
+duoi2 copy
+  rotate: false
+  xy: 407, 548
+  size: 428, 251
+  orig: 428, 251
+  offset: 0, 0
+  index: -1
+duoi3 copy
+  rotate: false
+  xy: 2, 87
+  size: 363, 307
+  orig: 363, 307
+  offset: 0, 0
+  index: -1
+duoi4 copy
+  rotate: false
+  xy: 1380, 1779
+  size: 363, 256
+  orig: 363, 256
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 1079, 937
+  size: 179, 295
+  orig: 179, 295
+  offset: 0, 0
+  index: -1
+mongtruoc1
+  rotate: true
+  xy: 2, 8
+  size: 77, 129
+  orig: 77, 129
+  offset: 0, 0
+  index: -1
+mongtruoc2
+  rotate: false
+  xy: 1260, 961
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+mongtruoc3
+  rotate: false
+  xy: 1638, 1663
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+mongtruoc4
+  rotate: false
+  xy: 245, 7
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+ngon tay sau 2
+  rotate: true
+  xy: 133, 2
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1
+ngontaysau1
+  rotate: false
+  xy: 1965, 1759
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+pl1
+  rotate: false
+  xy: 1260, 1073
+  size: 111, 159
+  orig: 111, 159
+  offset: 0, 0
+  index: -1
+pl2
+  rotate: true
+  xy: 658, 396
+  size: 150, 226
+  orig: 150, 226
+  offset: 0, 0
+  index: -1
+pl3
+  rotate: true
+  xy: 407, 401
+  size: 145, 249
+  orig: 145, 249
+  offset: 0, 0
+  index: -1
+pl4
+  rotate: true
+  xy: 1745, 1856
+  size: 179, 294
+  orig: 179, 294
+  offset: 0, 0
+  index: -1
+pl5
+  rotate: false
+  xy: 1079, 742
+  size: 189, 193
+  orig: 189, 193
+  offset: 0, 0
+  index: -1
+
+golem2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Die2
+  rotate: false
+  xy: 2, 2
+  size: 1075, 1234
+  orig: 1075, 1234
+  offset: 0, 0
+  index: -1
+
+golem3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Die3
+  rotate: false
+  xy: 2, 2
+  size: 1075, 1234
+  orig: 1075, 1234
+  offset: 0, 0
+  index: -1
+
+golem4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Die4
+  rotate: false
+  xy: 2, 2
+  size: 1075, 1234
+  orig: 1075, 1234
+  offset: 0, 0
+  index: -1
+
+golem5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Die5
+  rotate: false
+  xy: 2, 2
+  size: 1075, 1234
+  orig: 1075, 1234
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+DEMON.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: true
+  xy: 449, 12
+  size: 425, 342
+  orig: 425, 342
+  offset: 0, 0
+  index: -1
+D2
+  rotate: true
+  xy: 1042, 581
+  size: 425, 342
+  orig: 425, 342
+  offset: 0, 0
+  index: -1
+D3
+  rotate: true
+  xy: 1142, 154
+  size: 425, 342
+  orig: 425, 342
+  offset: 0, 0
+  index: -1
+D4
+  rotate: true
+  xy: 1386, 581
+  size: 425, 342
+  orig: 425, 342
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 2, 2
+  size: 445, 358
+  orig: 445, 358
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 287, 439
+  size: 502, 567
+  orig: 502, 567
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 1486, 181
+  size: 405, 398
+  orig: 405, 398
+  offset: 0, 0
+  index: -1
+taycamden
+  rotate: true
+  xy: 793, 47
+  size: 472, 347
+  orig: 472, 347
+  offset: 0, 0
+  index: -1
+taycamxich
+  rotate: false
+  xy: 791, 521
+  size: 249, 485
+  orig: 249, 485
+  offset: 0, 0
+  index: -1
+xich thonglong
+  rotate: false
+  xy: 1730, 664
+  size: 253, 342
+  orig: 253, 342
+  offset: 0, 0
+  index: -1
+xichngang
+  rotate: true
+  xy: 2, 362
+  size: 644, 283
+  orig: 644, 283
+  offset: 0, 0
+  index: -1
+xichvong
+  rotate: true
+  xy: 1142, 16
+  size: 136, 260
+  orig: 136, 260
+  offset: 0, 0
+  index: -1
